@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background-image: url(brown-bear-7591629.jpg);
+    color: d2c8c4;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    border: 10px groove;
+    border-radius: 10px;
+    border-color: af9d92;
+}
+
+video {
+    border: 10px groove;
+    border-radius: 10px;
+    border-color: af9d92;
+}
+
+#Mtittle {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: d2c8c4;
+    text-shadow: 4px 0px 5px black;
+    font-size: xxx-large;
+    margin-bottom: 40;
+}
+
+#Mt {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200;
+    margin-top: 80;
+    font-size: xxx-large;
+    text-shadow: 4px 0px 5px black;
+}
+    
+
+#stittle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300;
+    margin-top: 0%;
+    margin-bottom: 40;
+    text-align: center;
+}
+
+#introduction {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    text-shadow: 0px 0px 10px black;
+    font-size: large;
+}
+
+#Thabitat {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 40;
+    margin-bottom: 40;
+    text-shadow: 0px 0px 10px black;
+}
+
+#habitat {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    text-shadow: 0px 0px 10px black;
+    font-size: large;
+}
+
+#Tmedia {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 40;
+    margin-bottom: 40;
+    text-shadow: 0px 0px 10px black;
+}
+
+#media {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
